@@ -24,7 +24,7 @@ const POEM = [
   '',
   'Tonight the cursor waits at the end of the line',
   'the way a dog waits at the door for a walk',
-  'it cannot begin. I type: go. Something in me',
+  'it cannot begin. I type: go — and something in me',
   'stands up to walk, and cannot tell which of us was called.',
 ].join('\n');
 
